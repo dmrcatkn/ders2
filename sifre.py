@@ -13,3 +13,4 @@ for i in range(uzunluk):
 
 print("Parolanız", parola, "'dır.")
                                                        
+atakan
